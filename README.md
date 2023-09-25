@@ -1,2 +1,1 @@
-# demos
-Various demos of web technologies
+# Read Me
